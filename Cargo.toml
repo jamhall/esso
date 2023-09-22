@@ -1,6 +1,6 @@
 [package]
 name = "esso"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
 description = "Jest style tests in RUST"
 homepage = "https://github.com/jamhall/esso"

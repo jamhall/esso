@@ -9,7 +9,7 @@ The idea behind it is to make it easier to read and write tests in Rust.
 It accommodates both synchronous and asynchronous tests. Have a look at the `it.rs` source code if you want to see what
 the tests expand to it.
 
-# Example
+## Example
 
 **Synchronous example**
 
@@ -34,10 +34,10 @@ it!("should asynchronously check if a file exists", async {
 esso = "1.0.0"
 ```
 
-# Contributing
+## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-# License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
